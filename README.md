@@ -92,7 +92,7 @@
    <h1 align="center">Github Stats</h1>
        <tr>
        <td align="center" width="50%"><img alt="jobairshakib:: Profile Stats" src="https://github-readme-stats.vercel.app/api?username=jobairshakib&theme=blue-green&amp;show_icons=true&amp;count_private=true&amp;hide_border=true" /></td>
-       <td align="center" width="50%"><img alt="jobairshakib:: Top Langs]" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jobairshakib&langs_count=14&theme=blue-green&layout=compact&hide=html"> </td>
+       <td align="center" width="50%"><img alt="jobairshakib:: Top Langs]" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jobairshakib&langs_count=14&theme=blue-green&layout=compact&hide_border=true"> </td>
      </tr>
      <tr>
         <td colspan="2" align="center"><img  align="center" src="https://github-readme-streak-stats.herokuapp.com?user=jobairshakib&theme=blue-green&hide_border=true"></td>
