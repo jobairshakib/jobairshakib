@@ -3,7 +3,7 @@
 </div>   -->
   
 
-# <div align="center">I'm Jobair Shakib</div> 
+<h1 align="center">Hi 👋, I'm Jobair Shakib</h1>
 <p align="center">web developer 👨‍💻 </p> 
 <p align="center">working remotely since 2022 🚀</p>  
   
@@ -29,12 +29,14 @@
 
 <h3 align="center">Frontend</h3>
 <div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />  
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
+<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
+<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
+<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
+<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a>
 </div>
 
 </td><td valign="top" width="33%">
@@ -92,7 +94,7 @@
    <h1 align="center">Github Stats</h1>
        <tr>
        <td align="center" width="50%"><img alt="jobairshakib:: Profile Stats" src="https://github-readme-stats.vercel.app/api?username=jobairshakib&theme=blue-green&amp;show_icons=true&amp;count_private=true&amp;hide_border=true" /></td>
-       <td align="center" width="50%"><img alt="jobairshakib:: Top Langs]" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jobairshakib&langs_count=14&theme=blue-green&layout=compact&hide_border=true"> </td>
+       <td align="center" width="50%"><img alt="jobairshakib:: Top Langs]" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jobairshakib&langs_count=14&theme=blue-green&layout=compact&hide_html=true&hide_border=true"> </td>
      </tr>
      <tr>
         <td colspan="2" align="center"><img  align="center" src="https://github-readme-streak-stats.herokuapp.com?user=jobairshakib&theme=blue-green&hide_border=true"></td>
