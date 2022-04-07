@@ -8,8 +8,7 @@ Skills: REACT / JS / HTML / CSS
 
 <br /><br />
 <h3 align="center">Connect with me:</h3>
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' target="_blank" alt='github' height='40'>](https://github.com/jobairshakib)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' target="_blank" alt='linkedin' height='40'>](https://www.linkedin.com/in/jobairshakib/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' target="_blank" alt='facebook' height='40'>](https://www.facebook.com/jobair123)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' 
-target="_blank" alt='instagram' height='40'>](https://www.instagram.com/jobairshakib/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' target="_blank" alt='website' height='40'>](https://jobair.netlify.app/)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/jobairshakib)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/jobairshakib/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/jobair123)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/jobairshakib/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://jobair.netlify.app/)  
 <br /><br />
 [![trophy](https://github-profile-trophy.vercel.app/?username=jobairshakib)](https://github.com/ryo-ma/github-profile-trophy)
 
