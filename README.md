@@ -1,7 +1,6 @@
-<!-- <div align="center">
-<img src="" align="center" style="width: 100%" />
-</div>   -->
-  
+<div align="center">
+<img src="https://raw.githubusercontent.com/jobairshakib/jobairshakib/main/animation_500_kxa883sd.gif" alt="jobairshakib" height="250px" width="250px" />
+</div>  
 
 <h1 align="center">Hi 👋, I'm Jobair Shakib</h1>
 <p align="center">web developer 👨‍💻 </p> 
