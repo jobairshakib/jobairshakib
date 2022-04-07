@@ -1,6 +1,6 @@
-<div align="center">
+<!-- <div align="center">
 <img src="" align="center" style="width: 100%" />
-</div>  
+</div>   -->
   
 
 # <div align="center">I'm Jobair Shakib, 
@@ -22,13 +22,12 @@ working remotely since 2022 🚀</div>
 
 <br/>  
 
-
-## My Skill Set  
-<table><tr><td valign="top" width="33%">
-
+<h2 align="center">My Skill Set</h2>
+<table align="center"><tr><td valign="top" width="33%">
 
 
-### Frontend  
+
+<h3 align="center">Frontend</h3>
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
@@ -40,18 +39,14 @@ working remotely since 2022 🚀</div>
 
 </td><td valign="top" width="33%">
 
-
-
-### Backend  
+<h3 align="center">Backend</h3> 
 <div align="center">  
   
 </div>
 
 </td><td valign="top" width="33%">
 
-
-
-### DevOps  
+<h3 align="center">DevOps</h3> 
 <div align="center">  
   
 </div>
@@ -61,7 +56,7 @@ working remotely since 2022 🚀</div>
 <br/>  
 
 
-## Connect with me  
+<h1 align="center">Connect with me </h1>
 <div align="center">
 <a href="https://github.com/jobairshakib" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -75,26 +70,9 @@ working remotely since 2022 🚀</div>
 <a href="https://instagram.com/jobairshakib" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
-</div>  
-  
+</div>   
 
-<br/>  
-
-
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=jobairshakib&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<br/>  
-
-
-## Recent Blog Posts  
-  
-
-<br/>  
-
-  
-
-<br/>  
+<br/>   
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=jobairshakib&&style=flat-square" align="center" />
@@ -107,7 +85,7 @@ working remotely since 2022 🚀</div>
 <br />
 
 <p align="center">
-   <table>
+   <table align="center">
    <h1 align="center">Github Stats</h1>
        <tr>
        <td><img alt="jobairshakib:: Profile Stats" src="https://github-readme-stats.vercel.app/api?username=jobairshakib&theme=blue-green&amp;show_icons=true&amp;count_private=true&amp;hide_border=true" /></td>
@@ -118,4 +96,3 @@ working remotely since 2022 🚀</div>
      </tr>
    </table>
 </p>
-
