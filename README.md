@@ -3,12 +3,12 @@
 </div>   -->
   
 
-# <div align="center">I'm Jobair Shakib, 
- web developer 👨‍💻 
-working remotely since 2022 🚀</div>  
+# <div align="center">I'm Jobair Shakib</div> 
+<p align="center">web developer 👨‍💻 </p> 
+<p align="center">working remotely since 2022 🚀</p>  
   
 
-- 🔭 I’m currently working on   
+<!-- - 🔭 I’m currently working on   
   
 
 - 🌱 I’m currently learning React.js  
@@ -17,7 +17,7 @@ working remotely since 2022 🚀</div>
 - ❓ Ask me about anything related to   
   
 
-- ⚡ Fun fact: I use tabs over spaces  
+- ⚡ Fun fact: I use tabs over spaces   -->
   
 
 <br/>  
@@ -80,9 +80,10 @@ working remotely since 2022 🚀</div>
   
 
 <br/>  
-[![trophy](https://github-profile-trophy.vercel.app/?username=jobairshakib)](https://github.com/ryo-ma/github-profile-trophy)
+
+
 <div align="center">
-  [![trophy](https://github-profile-trophy.vercel.app/?username=jobairshakib)](https://github.com/ryo-ma/github-profile-trophy)
+
 </div>
 <br />
 
@@ -98,3 +99,8 @@ working remotely since 2022 🚀</div>
      </tr>
    </table>
 </p>
+<div align="center">
+  
+[![trophy](https://github-profile-trophy.vercel.app/?username=jobairshakib&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+  </div>
