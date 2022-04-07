@@ -4,16 +4,10 @@
 
 [![Github](https://img.shields.io/github/followers/jobairshakib?label=Follow&style=social)](https://github.com/jobairshakib)&nbsp;![Profile views](https://gpvc.arturio.dev/jobairshakib)
 
-Skills: REACT / JS / HTML / CSS
-
 <br /><br />
 <h3 align="center">Connect with me:</h3>
 
-<br /><br />
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jobairshakib)](https://github.com/anuraghazra/github-readme-stats) 
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=jobairshakib&theme=github)  
+<br /><br /> 
 
 <p align="center">
    <table>
