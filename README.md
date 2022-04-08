@@ -6,10 +6,10 @@
 <img src="https://raw.githubusercontent.com/jobairshakib/jobairshakib/main/animation_500_kxa883sd.gif" alt="jobairshakib" height="250px" width="250px" />
 </div>  
 <!-- Heading -->
-<h1 align="center"> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/jobairshakib/jobairshakib/main/wave.gif" width = 30px>
+<h3 align="center"> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/jobairshakib/jobairshakib/main/wave.gif" width = 25px>
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=32&center=true&vCenter=true&lines=I'm+Jobair+Shakib;Web+Developer)](https://git.io/typing-svg) 
-</h1>
+</h3>
 <!--  Skills  -->
 <h2 align="center">My Skill Set <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px></h2>
   
@@ -55,10 +55,10 @@
 </a>
 <a href="https://instagram.com/jobair_shakib" target="_blank">
 <img src=https://raw.githubusercontent.com/jobairshakib/jobairshakib/main/icons8-instagram.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin: 5px;" />
-</a>  
+</a>
+<br/>  
+<br/>
 
-<br/> 
-  
 [![Github](https://img.shields.io/github/followers/jobairshakib?label=Follow&style=social)](https://github.com/jobairshakib)&nbsp;![Profile views](https://gpvc.arturio.dev/jobairshakib)
 </div>  
 <!-- GitHub Stats -->
