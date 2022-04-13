@@ -49,13 +49,13 @@
 <!-- Contact Section -->
 <h1 align="center">Connect with me <img src='https://raw.githubusercontent.com/jobairshakib/jobairshakib/main/handshake.gif' width="100px"> </h1>
 <div align="center">
-<a href="https://linkedin.com/in/jobairshakib/" target="_blank">
+<a href="https://linkedin.com/in/jobairshakib" target="_blank">
 <img src=https://raw.githubusercontent.com/jobairshakib/jobairshakib/main/icons8-linkedin.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin: 5px;" />
 </a>
-<a href="https://www.facebook.com/jobair123/" target="_blank">
+<a href="https://www.facebook.com/jobair123" target="_blank">
 <img src=https://raw.githubusercontent.com/jobairshakib/jobairshakib/main/icons8-facebook.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin: 5px;" />
 </a>
-<a href="https://instagram.com/jobair_shakib/" target="_blank">
+<a href="https://instagram.com/jobair_shakib" target="_blank">
 <img src=https://raw.githubusercontent.com/jobairshakib/jobairshakib/main/icons8-instagram.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin: 5px;" />
 </a>
 <br/>  
