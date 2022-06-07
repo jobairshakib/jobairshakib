@@ -3,7 +3,7 @@
   
 [![](https://raw.githubusercontent.com/jobairshakib/jobairshakib/main/jobairshakib2.gif)](https://jobairsite.netlify.app/)
   
-<img src="https://raw.githubusercontent.com/jobairshakib/jobairshakib/main/animation_500_kxa883sd.gif" alt="jobairshakib" height="250px" width="250px" />
+<img src="https://raw.githubusercontent.com/jobairshakib/jobairshakib/main/animation_500_kxa883sd.gif" alt="jobairshakib" height="250" width="250" />
 </div>  
 
 <!-- Heading -->
@@ -13,7 +13,7 @@
 </h3>
   
 <!--  Skills  -->
-<h2 align="center">My Skill Set <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="32px"></h2>
+<h2 align="center">My Skill Set <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="32"></h2>
   
 <table align="center"><tr><td valign="top" width="33%">
 <h3 align="center">Frontend</h3>
@@ -47,7 +47,7 @@
 <br/>  
 
 <!-- Contact Section -->
-<h1 align="center">Connect with me <img src='https://raw.githubusercontent.com/jobairshakib/jobairshakib/main/handshake.gif' width="25px"> </h1>
+<h1 align="center">Connect with me <img src='https://raw.githubusercontent.com/jobairshakib/jobairshakib/main/handshake.gif' width="25"> </h1>
 <div align="center">
 <a href="https://linkedin.com/in/jobairshakib" target="_blank">
 <img src=https://raw.githubusercontent.com/jobairshakib/jobairshakib/main/icons8-linkedin.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin: 5px;" />
