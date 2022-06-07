@@ -7,13 +7,13 @@
 </div>  
 
 <!-- Heading -->
-<h3 align="center"> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/jobairshakib/jobairshakib/main/wave.gif" width = 25px>
+<h3 align="center"> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/jobairshakib/jobairshakib/main/wave.gif" width ="25px">
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=32&center=true&vCenter=true&lines=I'm+Jobair+Shakib;Web+Developer)](https://git.io/typing-svg) 
 </h3>
   
 <!--  Skills  -->
-<h2 align="center">My Skill Set <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px></h2>
+<h2 align="center">My Skill Set <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="32px"></h2>
   
 <table align="center"><tr><td valign="top" width="33%">
 <h3 align="center">Frontend</h3>
@@ -47,7 +47,7 @@
 <br/>  
 
 <!-- Contact Section -->
-<h1 align="center">Connect with me <img src='https://raw.githubusercontent.com/jobairshakib/jobairshakib/main/handshake.gif' width="30px"> </h1>
+<h1 align="center">Connect with me <img src='https://raw.githubusercontent.com/jobairshakib/jobairshakib/main/handshake.gif' width="25px"> </h1>
 <div align="center">
 <a href="https://linkedin.com/in/jobairshakib" target="_blank">
 <img src=https://raw.githubusercontent.com/jobairshakib/jobairshakib/main/icons8-linkedin.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin: 5px;" />
