@@ -7,7 +7,7 @@
 </div>  
 
 <!-- Heading -->
-<h3 align="center"> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/jobairshakib/jobairshakib/main/wave.gif" width ="25px">
+<h3 align="center"> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/jobairshakib/jobairshakib/main/wave.gif" width ="25">
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=32&center=true&vCenter=true&lines=I'm+Jobair+Shakib;Web+Developer)](https://git.io/typing-svg) 
 </h3>
