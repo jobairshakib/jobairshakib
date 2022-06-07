@@ -47,7 +47,7 @@
 <br/>  
 
 <!-- Contact Section -->
-<h1 align="center">Connect with me <img src='https://raw.githubusercontent.com/jobairshakib/jobairshakib/main/handshake.gif' width="50"> </h1>
+<h1 align="center">Connect with me <img src='https://raw.githubusercontent.com/jobairshakib/jobairshakib/main/handshake.gif' width="60"> </h1>
 <div align="center">
 <a href="https://linkedin.com/in/jobairshakib" target="_blank">
 <img src=https://raw.githubusercontent.com/jobairshakib/jobairshakib/main/icons8-linkedin.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin: 5px;" />
